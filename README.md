@@ -6,5 +6,8 @@
 - 📝 01. Búsquedas Ciega [BFS - DFS]
 
 - 📝 02. Búsquedas Heurísticas [Hill Climbing - A*]
+
+## TAREA_02
+- 📝 01. Juego de Damas con algoritmo Minimax
 <p align="left">
 </p>
