@@ -9,5 +9,9 @@
 
 ## TAREA_02
 - 📝 01. Juego de Damas con algoritmo Minimax
+
+## TAREA_03
+- 📝 01. Algoritmo genético para maximización de funciones
+- 📝 02. Optimización del Agente Viajero
 <p align="left">
 </p>
